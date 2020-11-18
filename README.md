@@ -1,6 +1,6 @@
 # Task Manager App
 
-You can find the app [here](https://noelledons.github.io/task-manager/)
+You can find the app [here](https://noelledons.github.io/task-manager/).
 
 ## Summary
 Task Manager Web App designed to help users manage their tasks and be more productive.
