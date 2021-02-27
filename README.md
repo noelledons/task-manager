@@ -16,7 +16,7 @@ This project allows users to add, delete and edit their tasks. This app aims to 
 - Context API
 - Font Awesome
 - Google Fonts
-- 
+
 ## Available Scripts
 
 In the project directory, you can find the code for:
